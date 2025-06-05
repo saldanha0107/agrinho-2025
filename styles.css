@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Variáveis */
 :root {
     --primary-color: #2c656b;
     --secondary-color: #d9e8e8;
@@ -11,17 +10,12 @@
     --font-titulo: "Rakkas", serif;
 }
 
-/* código omitido */
-
-/* Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: var(--font-body);
 }
-
-/* Corpo da página */
 body {
     background-color: var(--background-color);
     color: var(--text-color);
@@ -40,4 +34,4 @@ img {
     max-width: 90%;
 }
 
-/* código omitido */
+
